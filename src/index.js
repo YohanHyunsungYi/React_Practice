@@ -8,7 +8,14 @@ import VideoDetail from './components/video_detail';
 
 const API_KEY = 'AIzaSyAH5boP84JaNwB1xrsVH0Sk_pXMlbweIoE';
 
+const Youtube_PlaylistID_Speaking = 'PLt14bNimFHvNn9nj0tzv6RlrkemL93LDw';
+const Youtube_PlaylistID_OPIC = 'PLt14bNimFHvOglJmk21cUx4d9yUjZPGi7';
+const Youtube_PlaylistID_TOEIC = 'PLt14bNimFHvNhx81FyrLwpzU8Ri9hEAjw';
+const Youtube_PlaylistID_English = 'PLt14bNimFHvO-qbhsyPorK4SnSSOSDaBZ';
+
+
 class App extends Component {
+
   constructor(props) {
     super(props);
 
